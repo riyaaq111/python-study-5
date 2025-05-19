@@ -1,0 +1,12 @@
+python-is high level programing language.
+its designed to be easy to read and write.
+xtics of python.
+1 .high level language closer to human language than machine code.
+2.its an interprete language you dont need to combined python code.vhhhh
+3.general purpose language.python can be used for web development,data analysis,automation,ai/ml.
+
+
+.python use case.
+web development-flask,django.
+data science-panda,numpy,matplotlip
+machine learnig
